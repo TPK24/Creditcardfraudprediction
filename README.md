@@ -77,5 +77,8 @@ Usage
    [Model Training & Evaluation.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Model%20Training%20%26%20Evaluation.ipynb)
  4. New data prediction
     Task:
+    
         Prediction of data on the pickle file
+    
+    [New data prediction.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/New%20data%20prediction.ipynb)
       
