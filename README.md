@@ -36,7 +36,8 @@ IPython
 
 ### How to setup the project on local machine
 ```
-Cloning the Repository
+### Cloning the Repository
+
 Local/folder/path>git clone https://github.com/TPK24/Creditcardfraudprediction.git
 ```
 
