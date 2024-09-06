@@ -13,6 +13,7 @@ thereby enhancing security and reducing financial losses for credit card compani
 ```
 conda create -p venv python==3.7 -y
 ```
+
 #### Requirements
 ```
 To run this project, you need the following software and libraries:
@@ -38,50 +39,58 @@ IPython
 Cloning the Repository
 Local/folder/path>git clone https://github.com/TPK24/Creditcardfraudprediction.git
 ```
+
 ### Install Dependencies
 ```
 You can install the packages using pip install -r requirements.txt
 ```
+
 ### Model Serialization file(pickle file)
 
-Dataset
+[classifimodi.pkl](https://github.com/TPK24/Creditcardfraudprediction/tree/main/Models)
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+### Dataset
+
+[Creditcard fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+###Machine Learning Process
 
 1. Exploratory Data Analysis
 
    Tasks:
 
         Loading the Dataset.
-        performing Statistical summaries.
+        performing Statistical summaries - Exploring data and performing discriptive statistics.
         Visualizing data Distributions and Relationships.
    
    [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Exploratory%20Data%20Analysis(EDA).ipynb)
+   
+*** Detailed explanations on various techniques used and its outputs are present in the above file
 
-2. Data Preprocessing
+3. Data Preprocessing
 
    Tasks:
 
-        Handle missing values.
-        Feature engineering.
-        Split the dataset into training and test sets.
+        Data cleaning - Handling Missing values, Treating Duplicate values, Outliers.
+        Split the dataset into training and test sets - Spliting Data into Training and Test data for model training
    
    [Data Preprocessing.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Data%20Preprocessing.ipynb)
    
-3. Model Training and Evaluation
+4. Model Training and Evaluation
 
     Tasks:
 
-        Feature Scaling.
-        Balancing the Dataset.
-        Model training.
-        Model Evaluation.
-        Feature Importance.
-        Pickling the data.
+        Feature Scaling - Standard scaling adjusting the range and distribution of features so they are on a similar scale. 
+        Balancing the Dataset. Treating the imbalanced data with SMOTE() method so that model can predict accurate results
+        Model training - Random Forest CLassifier Algorithym used for training the model the reason behind using this
+                         algotithym it works well with outliers and imbalanced data
+        Model Prediction - predicting the model on the test data
+        Model Evaluation - Classification Reoprt, Precision recall Curve and Precision recall score metrics used to evaluate the data
+        Feature Importance. To find out features which have played important role in model prediction
    
    [Model Training & Evaluation.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Model%20Training%20%26%20Evaluation.ipynb)
    
- 4. New data prediction
+ 6. New data prediction
     
     Task:
     
