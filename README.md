@@ -53,7 +53,7 @@ Usage
         Loading the Dataset.
         performing Statistical summaries.
         Visualizing data Distributions and Relationships.
-   [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/edit/main/notebook)
+   [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Exploratory%20Data%20Analysis(EDA).ipynb)
 
 3. Data Preprocessing
 
