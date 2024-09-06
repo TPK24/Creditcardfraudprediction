@@ -74,4 +74,5 @@ Usage
         Model Evaluation.
         Feature Importance.
         Pickling the data.
+   [Model Training & Evaluation.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Model%20Training%20%26%20Evaluation.ipynb)
    
