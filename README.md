@@ -14,7 +14,7 @@ thereby enhancing security and reducing financial losses for credit card compani
 conda create -p venv python==3.7 -y
 ```
 
-#### Requirements
+### Requirements
 ```
 To run this project, you need the following software and libraries:
 Python version 3.7 or higher
@@ -53,7 +53,9 @@ You can install the packages using pip install -r requirements.txt
 
 [Creditcard fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-###Machine Learning Process
+### Machine Learning Process
+
+Note: ** Detailed explanations on various techniques used and its outputs are present in the above file **
 
 1. Exploratory Data Analysis
 
@@ -65,7 +67,7 @@ You can install the packages using pip install -r requirements.txt
    
    [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Exploratory%20Data%20Analysis(EDA).ipynb)
    
-*** Detailed explanations on various techniques used and its outputs are present in the above file
+
 
 3. Data Preprocessing
 
@@ -97,4 +99,5 @@ You can install the packages using pip install -r requirements.txt
         Prediction of data on the pickle file
     
     [New data prediction.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/New%20data%20prediction.ipynb)
-      
+
+    
