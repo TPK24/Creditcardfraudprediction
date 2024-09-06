@@ -53,16 +53,18 @@ Usage
         Loading the Dataset.
         performing Statistical summaries.
         Visualizing data Distributions and Relationships.
+   [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Exploratory%20Data%20Analysis(EDA).ipynb)
 
-2. Data Preprocessing
+3. Data Preprocessing
 
    Tasks:
 
         Handle missing values.
         Feature engineering.
         Split the dataset into training and test sets.
+   [Data Preprocessing.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Data%20Preprocessing.ipynb)
 
-3. Model Training and Evaluation
+5. Model Training and Evaluation
 
     Tasks:
 
@@ -72,3 +74,5 @@ Usage
         Model Evaluation.
         Feature Importance.
         Pickling the data.
+   [Model Training & Evaluation.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Model%20Training%20%26%20Evaluation.ipynb)
+   
