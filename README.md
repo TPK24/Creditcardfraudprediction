@@ -54,7 +54,7 @@ Usage
         performing Statistical summaries.
         Visualizing data Distributions and Relationships.
 
-2. Data Preprocessing
+3. Data Preprocessing
 
    Tasks:
 
@@ -62,7 +62,7 @@ Usage
         Feature engineering.
         Split the dataset into training and test sets.
 
-3. Model Training and Evaluation
+4. Model Training and Evaluation
 
     Tasks:
 
