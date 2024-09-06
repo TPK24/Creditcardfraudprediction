@@ -102,7 +102,7 @@ Note: ** Detailed explanations on various techniques used and its outputs are pr
     
     Task:
     
-        Prediction of data on the pickle file.
+        Prediction of data on the pickle file to know if our model is working properly.
     
     [New data prediction.ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/New%20data%20prediction.ipynb)
 
