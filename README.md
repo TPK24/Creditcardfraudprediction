@@ -56,7 +56,7 @@ You can install the packages using pip install -r requirements.txt
 
 ### Machine Learning Process
 
-Note: ** Detailed explanations on various techniques used and its outputs are present in the above file **
+Note: ** Detailed explanations on various techniques used and its outputs are present in the files mentioned below **
 
 1. Exploratory Data Analysis
 
