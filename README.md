@@ -62,8 +62,9 @@ Usage
         Handle missing values.
         Feature engineering.
         Split the dataset into training and test sets.
+   [Exploratory Data Analysis(EDA).ipynb](https://github.com/TPK24/Creditcardfraudprediction/blob/main/notebook/Data%20Preprocessing.ipynb)
 
-4. Model Training and Evaluation
+5. Model Training and Evaluation
 
     Tasks:
 
@@ -73,3 +74,4 @@ Usage
         Model Evaluation.
         Feature Importance.
         Pickling the data.
+   
