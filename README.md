@@ -92,7 +92,8 @@ Note: ** Detailed explanations on various techniques used and its outputs are pr
    
         Model Prediction - predicting the model on the test data.
    
-        Model Evaluation - Classification Reoprt, Precision recall Curve and Precision recall score metrics used to evaluate the data.
+        Model Evaluation - Classification Reoprt, Precision recall Curve and Precision recall score metrics used
+                           to evaluate the data.
    
         Feature Importance. To find out features which have played important role in model prediction.
    
