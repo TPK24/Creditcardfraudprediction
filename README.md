@@ -45,7 +45,7 @@ Local/folder/path>git clone https://github.com/TPK24/Creditcardfraudprediction.g
 You can install the packages using pip install -r requirements.txt
 ```
 
-### Model Serialization file(pickle file)
+### Model Serialization file (pickle file)
 
 [classifimodi.pkl](https://github.com/TPK24/Creditcardfraudprediction/tree/main/Models)
 
